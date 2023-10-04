@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Script/Enemy.cs" Line="24" Column="28" />
+      <File FileName="Assets/Script/HUD.cs" />
+      <File FileName="Assets/Script/Player.cs" />
+      <File FileName="Assets/Script/lua.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bb45f64a-1727-433e-9d58-5da84c703606" />
+</Properties>
